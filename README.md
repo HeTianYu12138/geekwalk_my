@@ -1,1 +1,2 @@
 # geekwalk_my
+模仿geekwalk一步步尝试搭建ngnix，希望能在实习期间利用业余时间有所获
