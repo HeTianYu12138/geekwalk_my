@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geekwalk.iml" filepath="$PROJECT_DIR$/.idea/modules/geekwalk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geekwalk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/geekwalk_main.iml" group="geekwalk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/geekwalk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/geekwalk_test.iml" group="geekwalk" />
+    </modules>
+  </component>
+</project>
